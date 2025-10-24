@@ -5,11 +5,7 @@
 
 <!-- 👋 Greeting Section -->
 <h1 align="center">Hi 👋,
- <br> I'M MD TOMIJ UDDIN</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Waving hand gif">
-</p>
+ <br> I'm Md. Tomij Uddin</h1>
 
 ---
 
