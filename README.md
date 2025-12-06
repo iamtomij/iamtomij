@@ -1,6 +1,6 @@
 <!-- ✨ Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!+;Welcome+to+My+GitHub+Profile!;I'm+MD+TOMIJ+UDDIN; Frontend+Developer+%7C+React+Enthusiast+%7C+UI+%26+UX+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!+;Welcome+to+My+GitHub+Profile!;I'm+MD+TOMIJ+UDDIN;Frontend+Developer+%7C+React+Enthusiast+%7C+UI+%26+UX+Lover" alt="Typing SVG" />
 </p>
 
 <!-- 👋 Greeting Section -->
