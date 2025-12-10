@@ -4,7 +4,7 @@
 </p>
 
 <!-- 👋 Greeting Section -->
-<h1 align="center">Hello,
+<h1 align="center">Hello there,
  <br> I'm Md. Tomij Uddin</h1>
 
 ---
@@ -16,7 +16,7 @@
 
 - 💻 Passionate about *Frontend Development*  
 - 🎨 Obsessed with *clean UI* and *smooth UX*  
-- 🚀 Always learning and experimenting with new tech  
+- 🚀 Always learning and experimenting with new Tech  
 - 🤝 Open to *collaboration* and creative teamwork  
 
 ---
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-#### 🚀 Languages & Frameworks  
+#### 🚀 Languages & Frameworks:  
 <table>
   <tr>
     <td align="center" width="100">
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-#### 🎨 Styling & UI Libraries  
+#### 🎨 Styling & UI Libraries:  
 <table>
   <tr>
     <td align="center" width="100">
@@ -61,7 +61,7 @@
 </div>
 
 
-### 📊 GitHub Stats 📈  
+### 📊 GitHub Status 📈  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tomijuddin&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 🔥 GitHub Streak  
+### 🔥 GitHub Streake  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
