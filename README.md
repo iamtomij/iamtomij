@@ -4,7 +4,7 @@
 </p>
 
 <!-- 👋 Greeting Section -->
-<h1 align="center">Hello there,
+<h1 align="center">Hello,
  <br> I'm Md. Tomij Uddin</h1>
 
 ---
@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
 </p>
 
-- 💻 Passionate about *Frontend Development*  
+- 💻 Passionate about *Front-end Development*  
 - 🎨 Obsessed with *clean UI* and *smooth UX*  
 - 🚀 Always learning and experimenting with new Tech  
 - 🤝 Open to *collaboration* and creative teamwork  
@@ -70,7 +70,7 @@
 
 ---
 
-### 🔥 GitHub Streake  
+### 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
