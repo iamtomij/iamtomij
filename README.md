@@ -5,7 +5,7 @@
 
 <!-- 👋 Greeting Section -->
 <h1 align="center">Hello,
- <br> I'm Tomij Uddin</h1>
+ <br> I'm MD. Tomij Uddin</h1>
 
 ---
 
