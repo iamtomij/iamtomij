@@ -28,7 +28,7 @@
 
 <div align="center">
 
-#### 🚀 Languages & Frameworks:  
+#### 🚀 Languages & Frameworks  
 <table>
   <tr>
     <td align="center" width="100">
