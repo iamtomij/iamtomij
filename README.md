@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
 </p>
 
-- 💻 Passionate about *Front-end Web Development*  
+- 💻 Passionate about *Front-end Development*  
 - 🎨 Obsessed with *clean UI* and *smooth UX*  
 - 🚀 Always learning and experimenting with new Tech  
 - 🤝 Open to *collaboration* and creative teamwork  
@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-#### 🎨 Styling & UI Libraries:  
+#### 🎨 Styling & UI Libraries  
 <table>
   <tr>
     <td align="center" width="100">
