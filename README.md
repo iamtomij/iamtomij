@@ -5,7 +5,7 @@
 
 <!-- 👋 Greeting Section -->
 <h1 align="center">Hello,
- <br> I'm Tomij Uddin </h1>
+ <br> I'm Md. Tomij Uddin </h1>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Skills & Tools ⚡  
+### 🛠 Skill & Tools ⚡  
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" alt="Rocket gif">
 </p>
@@ -70,7 +70,7 @@
 
 ---
 
-### 🔥 GitHub Streak  
+### 🔥 GitHub Streake  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
