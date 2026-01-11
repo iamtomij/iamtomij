@@ -28,7 +28,7 @@
 
 <div align="center">
 
-#### 🚀 Toolos & Frameworks  
+#### 🚀 Tools & Frameworks  
 <table>
   <tr>
     <td align="center" width="100">
