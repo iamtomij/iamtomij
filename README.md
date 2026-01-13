@@ -1,43 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:9333EA&height=2"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Bangladesh;UI%2FUX+Focused+Engineer;Available+for+Freelance+%26+Remote+Work" />
-</p>
-## 🐍 Contribution Flow
+## 🚀 Featured Projects  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomijuddin/tomijuddin/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tomijuddin&style=flat-square&color=38BDF8" />
-  <img src="https://img.shields.io/github/followers/tomijuddin?label=Followers&style=flat-square&color=9333EA" />
-  <img src="https://img.shields.io/github/stars/tomijuddin?label=Stars&style=flat-square&color=FACC15" />
-</p>
-## 🤝 Let’s Build Something Great
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheikhtomij/">
-    <img src="https://img.icons8.com/color/56/linkedin.png"/>
-  </a>
-  <a href="https://github.com/iamtomij">
-    <img src="https://img.icons8.com/fluency/56/github.png"/>
-  </a>
-  <a href="https://www.instagram.com/iamtomij">
-    <img src="https://img.icons8.com/fluency/56/instagram-new.png"/>
-  </a>
-  <a href="https://www.facebook.com/iamtomij">
-    <img src="https://img.icons8.com/color/56/facebook.png"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Some+Things+I've+Built;Modern+Frontend+Projects;UI%2FUX+Focused+Works" />
 </p>
 
-<p align="center">
-  <b>💼 Open for freelance, collaboration & frontend roles</b>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio Website  
+<p>
+A modern and responsive personal portfolio showcasing my skills, projects, and experience.
 </p>
 
-<p align="center">
-  ✨ <b>Design clean. Code smart. Build impact.</b> ✨
+**Tech Used:**  
+`React` · `Tailwind CSS` · `JavaScript`
+
+🔗 **Links:**  
+- 🌍 Live: https://your-portfolio-link.com  
+- 💻 Code: https://github.com/iamtomij/portfolio
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce UI Design  
+<p>
+A clean e-commerce frontend with product cards, cart UI, and responsive layout.
 </p>
+
+**Tech Used:**  
+`HTML` · `CSS` · `JavaScript`
+
+🔗 **Links:**  
+- 🌍 Live: https://your-ecommerce-link.com  
+- 💻 Code: https://github.com/iamtomij/ecommerce-ui
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Course Platform UI  
+<p>
+Frontend UI for an online learning platform with modern layout and animations.
+</p>
+
+**Tech Used:**  
+`React` · `Tailwind CSS`
+
+🔗 **Links:**  
+- 🌍 Live: https://your-course-link.com  
+- 💻 Code: https://github.com/iamtomij/course-ui
+
+</td>
+<td width="50%">
+
+### 🎨 UI Components Library  
+<p>
+Reusable UI components built with a design-first approach.
+</p>
+
+**Tech Used:**  
+`React` · `CSS` · `Figma`
+
+🔗 **Links:**  
+- 🌍 Live: https://your-ui-library-link.com  
+- 💻 Code: https://github.com/iamtomij/ui-components
+
+</td>
+</tr>
+</table>
