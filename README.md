@@ -1,75 +1,62 @@
-## 🚀 Featured Projects  
+<!-- ================= HERO SECTION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md.+Tomij+Uddin;Frontend+Developer+%7C+UI+UX+Designer;React+%7C+Tailwind+%7C+JavaScript;Building+Clean+%26+Modern+Web+Experiences" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Some+Things+I've+Built;Modern+Frontend+Projects;UI%2FUX+Focused+Works" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+## 👋 About Me  
 
-### 🌐 Personal Portfolio Website  
-<p>
-A modern and responsive personal portfolio showcasing my skills, projects, and experience.
+> **I don’t just write code — I design experiences.**
+
+I’m a **Frontend Developer** who loves turning ideas into **beautiful, responsive, and user-friendly interfaces**.  
+I focus on **clean UI, smooth UX, and performance-optimized web apps**.
+
+- 🎯 Focused on **Frontend & UI Design**
+- 🧠 Always learning modern web technologies
+- 🎨 Design-minded developer
+- 🤝 Open for collaboration & freelance work
+
+---
+
+## 🧩 Tech Stack  
+
+### 🚀 Core Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 </p>
 
-**Tech Used:**  
-`React` · `Tailwind CSS` · `JavaScript`
-
-🔗 **Links:**  
-- 🌍 Live: https://your-portfolio-link.com  
-- 💻 Code: https://github.com/iamtomij/portfolio
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce UI Design  
-<p>
-A clean e-commerce frontend with product cards, cart UI, and responsive layout.
+### 🎨 Styling & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&perline=3" />
 </p>
 
-**Tech Used:**  
-`HTML` · `CSS` · `JavaScript`
-
-🔗 **Links:**  
-- 🌍 Live: https://your-ecommerce-link.com  
-- 💻 Code: https://github.com/iamtomij/ecommerce-ui
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Course Platform UI  
-<p>
-Frontend UI for an online learning platform with modern layout and animations.
+### 🛠 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
-**Tech Used:**  
-`React` · `Tailwind CSS`
+---
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomijuddin&show_icons=true&theme=transparent&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomijuddin&layout=compact&theme=transparent&hide_border=true" height="170"/> </p>
 
-🔗 **Links:**  
-- 🌍 Live: https://your-course-link.com  
-- 💻 Code: https://github.com/iamtomij/course-ui
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=transparent&hide_border=true" /> </p>
 
-</td>
-<td width="50%">
+🌍 Let’s Connect
+<p align="center"> <a href="https://github.com/iamtomij"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sheikhtomij/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://www.instagram.com/iamtomij"> <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/> </a> <a href="https://www.facebook.com/iamtomij"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/> </a> </p>
 
-### 🎨 UI Components Library  
-<p>
-Reusable UI components built with a design-first approach.
-</p>
+<p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
 
-**Tech Used:**  
-`React` · `CSS` · `Figma`
+## 🧠 My Development Philosophy  
 
-🔗 **Links:**  
-- 🌍 Live: https://your-ui-library-link.com  
-- 💻 Code: https://github.com/iamtomij/ui-components
-
-</td>
-</tr>
-</table>
+```txt
+✔ Simplicity over complexity
+✔ Design before development
+✔ Mobile-first mindset
+✔ Performance matters
+✔ User experience is everything
