@@ -1,52 +1,58 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= ANIMATED HERO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md.+Tomij+Uddin;Frontend+Developer+%7C+UI+UX+Designer;React+%7C+Tailwind+%7C+JavaScript;Building+Clean+%26+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+There+👋;I'm+Md.+Tomij+Uddin;Frontend+Developer+%26+UI+UX+Designer;React+Enthusiast+⚛️;Turning+Ideas+Into+Beautiful+Interfaces" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 ---
 
-## 👋 About Me  
+## 👨‍💻 About Me  
 
-> **I don’t just write code — I design experiences.**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
-I’m a **Frontend Developer** who loves turning ideas into **beautiful, responsive, and user-friendly interfaces**.  
-I focus on **clean UI, smooth UX, and performance-optimized web apps**.
+> **I design, I code, I create experiences.**
 
-- 🎯 Focused on **Frontend & UI Design**
-- 🧠 Always learning modern web technologies
-- 🎨 Design-minded developer
-- 🤝 Open for collaboration & freelance work
+- 💻 Frontend Developer (React)
+- 🎨 UI/UX & Visual Design Lover
+- 🚀 Passionate about modern web animation
+- 🤝 Open to collaboration & freelance work
 
 ---
 
-## 🧩 Tech Stack  
+## ⚡ Tech Stack & Skills  
 
-### 🚀 Core Skills
+### 🚀 Frontend Development  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 </p>
 
-### 🎨 Styling & UI
+### 🎨 Styling & UI Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&perline=3" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&perline=2" />
 </p>
 
-### 🛠 Tools
+### 🖌 Design Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3" />
+</p>
+
+### 🛠 Development Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
 ---
 
-## 🧠 My Development Philosophy  
+## 🧠 My Creative Workflow  
 
 ```txt
-✔ Simplicity over complexity
-✔ Design before development
-✔ Mobile-first mindset
-✔ Performance matters
-✔ User experience is everything
+🎨 Design in Figma / Photoshop
+🧠 Think UX First
+⚛️ Build with React
+✨ Add Smooth Animations
+🚀 Optimize & Deploy
