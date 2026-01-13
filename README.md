@@ -27,12 +27,12 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 
 ### 🚀 Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=5" />
 </p>
 
 ### 🎨 Styling & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,ps,ai&perline=3" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,ps,ai&perline=6" />
 </p>
 
 ### 🛠 Tools
