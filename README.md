@@ -1,65 +1,43 @@
-<!-- ================= HERO SECTION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md.+Tomij+Uddin;Frontend+Developer+%7C+UI+UX+Designer;React+%7C+Tailwind+%7C+JavaScript;Building+Clean+%26+Modern+Web+Experiences" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:9333EA&height=2"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Bangladesh;UI%2FUX+Focused+Engineer;Available+for+Freelance+%26+Remote+Work" />
+</p>
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tomijuddin/tomijuddin/output/github-contribution-grid-snake.svg" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tomijuddin&style=flat-square&color=38BDF8" />
+  <img src="https://img.shields.io/github/followers/tomijuddin?label=Followers&style=flat-square&color=9333EA" />
+  <img src="https://img.shields.io/github/stars/tomijuddin?label=Stars&style=flat-square&color=FACC15" />
+</p>
+## 🤝 Let’s Build Something Great
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheikhtomij/">
+    <img src="https://img.icons8.com/color/56/linkedin.png"/>
+  </a>
+  <a href="https://github.com/iamtomij">
+    <img src="https://img.icons8.com/fluency/56/github.png"/>
+  </a>
+  <a href="https://www.instagram.com/iamtomij">
+    <img src="https://img.icons8.com/fluency/56/instagram-new.png"/>
+  </a>
+  <a href="https://www.facebook.com/iamtomij">
+    <img src="https://img.icons8.com/color/56/facebook.png"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <b>💼 Open for freelance, collaboration & frontend roles</b>
 </p>
-
----
-
-## 👋 About Me  
-
-> **I don’t just write code — I design experiences.**
-
-I’m a **Frontend Developer** who loves turning ideas into **beautiful, responsive, and user-friendly interfaces**.  
-I focus on **clean UI, smooth UX, and performance-optimized web apps**.
-
-- 🎯 Focused on **Frontend & UI Design**
-- 🧠 Always learning modern web technologies
-- 🎨 Design-minded developer
-- 🤝 Open for collaboration & freelance work
-
----
-
-## 🧩 Tech Stack  
-
-### 🚀 Core Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
-### 🎨 Styling & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&perline=3" />
+  ✨ <b>Design clean. Code smart. Build impact.</b> ✨
 </p>
-
-### 🖌 Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma&perline=3" />
-</p>
-
-### 🛠 Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
-</p>
-
-🤝 Connect With Me
-<p align="center"> <a href="https://twitter.com/"> <img src="https://img.icons8.com/color/48/twitter--v1.png"/> </a> <a href="https://www.linkedin.com/in/sheikhtomij/"> <img src="https://img.icons8.com/color/48/linkedin.png"/> </a> <a href="https://www.facebook.com/iamtomij"> <img src="https://img.icons8.com/color/48/facebook.png"/> </a> <a href="https://www.instagram.com/iamtomij"> <img src="https://img.icons8.com/fluency/48/instagram-new.png"/> </a> </p>
-
----
-
-🌍 Visitor Map
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tomijuddin" /> </p>
-
-## 🧠 My Development Philosophy  
-
-```txt
-✔ Simplicity over complexity
-✔ Design before development
-✔ Mobile-first mindset
-✔ Performance matters
-✔ User experience is everything
-
-<p align="center"> ✨ <b>“Design is intelligence made visible through code.”</b> ✨ </p> `
