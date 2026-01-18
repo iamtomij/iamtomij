@@ -32,7 +32,7 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 
 ### 🎨 Styling & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,p5*,ps,ai&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,ps,ai&perline=10" />
 </p>
 
 ### 🛠 Tools
