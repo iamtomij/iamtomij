@@ -40,13 +40,6 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
----
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomijuddin&show_icons=true&theme=transparent&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomijuddin&layout=compact&theme=transparent&hide_border=true" height="170"/> </p>
-
-🔥 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=transparent&hide_border=true" /> </p>
-
 ### 🤝 Connect With Me  
 <p align="center">
   <a href="https://twitter.com/iamtomij" target="blank">
@@ -62,6 +55,15 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
   </a>
 </p>
+
+---
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomijuddin&show_icons=true&theme=transparent&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomijuddin&layout=compact&theme=transparent&hide_border=true" height="170"/> </p>
+
+🔥 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=transparent&hide_border=true" /> </p>
+
+
 
 <p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
 
