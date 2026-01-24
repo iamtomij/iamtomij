@@ -32,12 +32,12 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 
 ### 🎨 Styling & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,ps,ai&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,pixso,xd,ps,ai&perline=10" />
 </p>
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=4" />
 </p>
 
 ### 🤝 Connect With Me  
