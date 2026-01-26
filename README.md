@@ -16,7 +16,7 @@
 I’m a **Frontend Developer** who loves turning ideas into **beautiful, responsive, and user-friendly interfaces**.  
 I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 
-- 🎯 Focused on **Frontend & UI Design**
+- 🎯 Focused on **Front-end & UI Design**
 - 🧠 Always learning modern web technologies
 - 🎨 Design-minded developer
 - 🤝 Open for collaboration & freelance work
@@ -57,12 +57,25 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 </p>
 
 ---
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomijuddin&show_icons=true&theme=transparent&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomijuddin&layout=compact&theme=transparent&hide_border=true" height="170"/> </p>
+## 📊 GitHub Stats
 
-🔥 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tomijuddin&theme=transparent&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdwasim2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwasim2&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwasim2&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdwasim2&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
 
 
 <p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
