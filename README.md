@@ -60,22 +60,20 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdwasim2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtomij&show_icons=true&theme=radical" alt="Tomij GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwasim2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtomij&theme=radical" alt="Tomij GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwasim2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomij&layout=compact&theme=radical" alt="Tomij Top Languages" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdwasim2&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtomij&theme=radical&no-bg=true&margin-w=15" alt="Tomij GitHub Trophies"/>
 </p>
 
----
 
 
 <p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
