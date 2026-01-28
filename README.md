@@ -68,13 +68,6 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamtomij&theme=radical&no-bg=true&margin-w=15" alt="Tomij GitHub Trophies"/>
-</p>
-
-
 
 <p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
 
