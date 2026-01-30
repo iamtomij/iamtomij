@@ -13,13 +13,13 @@
 
 > **I don’t just write code — I design experiences.**
 
-I’m a **Frontend Developer** who loves turning ideas into **beautiful, responsive, and user-friendly interfaces**.  
-I focus on **clean UI, smooth UX, and performance-optimized web apps**.
+I’m a **Frontend Developer** passionate about building  
+**beautiful, responsive & user-friendly web interfaces**.
 
-- 🎯 Focused on **Front-end & UI Design**
-- 🧠 Always learning modern web technologies
-- 🎨 Design-minded developer
-- 🤝 Open for collaboration & freelance work
+- 🎯 Frontend & UI/UX focused  
+- 🧠 Always learning modern web tech  
+- 🎨 Design-minded developer  
+- 🤝 Open for collaboration & freelance work  
 
 ---
 
@@ -40,36 +40,44 @@ I focus on **clean UI, smooth UX, and performance-optimized web apps**.
   <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=4" />
 </p>
 
-### 🤝 Connect With Me  
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <a href="https://twitter.com/iamtomij" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtomij&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=iamtomij&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomij&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtomij&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/iamtomij">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://linkedin.com/in/iamtomij" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  <a href="https://linkedin.com/in/iamtomij">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.facebook.com/iamtomij" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
+  <a href="https://facebook.com/iamtomij">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
   </a>
-  <a href="https://instagram.com/iamtomij" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  <a href="https://instagram.com/iamtomij">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtomij&show_icons=true&theme=radical" alt="Tomij GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtomij&theme=radical" alt="Tomij GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtomij&layout=compact&theme=radical" alt="Tomij Top Languages" />
-</p>
-
-
-
-<p align="center"> <b>“Design is intelligence made visible through code.”</b> </p>
 
 ## 🧠 My Development Philosophy  
 
