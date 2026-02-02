@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 About Me  
+## 👋 About Of Me  
 
 > **I don’t just write code — I design experiences.**
 
